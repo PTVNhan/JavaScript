@@ -1,0 +1,1 @@
+alert('Demo 2: Su dung the script cach 2.');
